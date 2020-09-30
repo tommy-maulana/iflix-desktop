@@ -10,7 +10,7 @@ This is a iflix desktop application to create a webview.
 
 
 <p align="center">
-    <a href="https://s.id/iflixMac">
+    <a href="https://s.id/iflixWindows">
       <img src="./img/download-win.png" alt="Download" width="150"/>
     </a>
 </p>
