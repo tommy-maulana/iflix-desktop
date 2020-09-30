@@ -8,6 +8,13 @@ This is a iflix desktop application to create a webview.
     </a>
 </p>
 
+
+<p align="center">
+    <a href="https://s.id/iflixMac">
+      <img src="./img/download-win.png" alt="Download" width="150"/>
+    </a>
+</p>
+
 ![iflix Desktop App](screenshot.png)
 
 ## Usage
